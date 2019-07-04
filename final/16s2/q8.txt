@@ -1,0 +1,29 @@
+COMP1927 15s2 Exam Question 8 (Hash Table)
+
+A.
+average length of chain: 100/11 = 9
+
+B.
+2 item is examined in searching for key 42
+
+C.
+9 items is examined in searching for key 999
+
+D.
+after insert N items, average chain length: 100 + N / 11
+worst cost: 100 + N / 11
+E.
+best cost: 1
+
+F.
+for example: a sequence of key values will produce single long chain
+containg 100 items in hash table index 0
+int key[100];
+int index = 0;
+for (int i = 0; i < N; i++) {
+    // in index 0
+    if (i % 11 == 0) {
+	key[index++] = i;
+    }
+    if (index == 100) break;
+}

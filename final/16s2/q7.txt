@@ -1,0 +1,20 @@
+COMP1927 15s2 Exam Question 7 (Mergesort)
+
+A.
+original:
+s o r t i n g i s a w e s o m e
+
+1st:
+o s| r t |i n |g i |a s |e w |o s |e m
+
+2ed:
+r s t o |g i i n | a e s w| e m o s
+
+3rd:
+g i i n o r s t | a e e m o s s w
+
+4rd:
+a e e g i i m n o o r s s s t w
+
+B.
+to make sure every time we sort the lower part of the array not a whole array

@@ -1,0 +1,22 @@
+COMP1927 15s2 Exam Question 6 (Weighted DiGraphs)
+
+A.
+using DFS search
+A	F B (top)
+B	F C G (top)
+G	F C H M (top)
+M	F C H L N S (top)
+S	F C H L N T (top)
+T	F C H L N U (top)
+U	F C H L N V (top)
+V	F C H L N (top)
+reach!!!
+total weight: 0.5 + 0.2 + 0.2 + 0.2 + 0.6 + 0.6 + 0.5 = 2.8
+
+
+B.
+V Q K J D C B A
+3.3
+
+C.
+Not every node can be reached, such as node R cannot be reached

@@ -1,0 +1,34 @@
+Question 9 ... COMP1927 13s1 Final Exam
+
+
+A.
+
+a   e d b
+e   d b f
+d   b f g c
+b   f g c 
+f   g c j
+g   c j i h
+c   j i h
+j   i h
+i   h
+h
+
+
+B.
+
+a	b e d
+b	e d c
+e	d c f
+d	c f g
+c	f g h
+f	g h j
+g	h j i
+h	j i
+j	i
+i
+
+
+C. (bonus question)
+
+Replace this by your answer

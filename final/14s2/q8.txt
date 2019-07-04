@@ -1,0 +1,41 @@
+Question 8 ... COMP1927 14s2 Final Exam
+
+
+A.  (clique(s))
+
+{5, 6, 7}
+
+
+B.  (vertices with largest degree)
+
+vertex: 2 or 5
+degree: 3
+
+
+C.  (edges to remove for spanning tree)
+
+remove E, G or F
+
+
+D.  (depth-first traversal)
+
+Current   Stack after visiting current
+-------   ----------------------------
+6	  5, 7 (top)
+7	  5    (top)
+5	  2    (top)
+2	  1, 4 (top)
+4	  1    (top)
+1	  3    (top)
+3	  empty	  
+E.  (breadth-first traversal)
+
+Current   Queue after visiting current
+-------   ----------------------------
+6	  7, 5 (first)
+5	  2, 7 (first)
+7	  2 (first)
+2	  4, 1(first)
+1	  3, 4(first)
+4	  3(first)
+3	  empty

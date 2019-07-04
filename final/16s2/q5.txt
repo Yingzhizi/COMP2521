@@ -1,0 +1,19 @@
+COMP1927 15s2 Exam Question 5 (Binary Search Trees)
+
+A. 4 times
+
+
+B. 1 time, 42
+
+
+C. 6 times, 51 or 33
+
+
+D. 4 times, 9 < x < 16 or 16 < x < 20 and not not the value in the tree
+e.g. 10
+
+
+E. replace by 41, the maximum value in the left subtree
+
+
+F. new root value: 20, new of left child: 9, new value of right: 42

@@ -1,0 +1,30 @@
+Question 7 ... COMP1927 14s2 Final Exam
+
+
+A.  (after inserting 8 into 2-3-4 tree)
+
+root: (12|35|60)
+node contain 8: (1|7|8)
+
+B.  (after inserting 42 into 2-3-4 tree)
+
+root: (35)
+node contain 42: (36|42)
+
+
+C.  (after inserting 8 into red-black tree)
+
+root: (35)
+parent of node contain 8: (7)
+
+
+D.  (after inserting 42 into red-black tree)
+
+root: (35)
+parent of node contain 8: (36)
+
+
+E.  (# representations of 2-3-4 nodes)
+representing a 2-node: 1 ways
+representing a 3-node: 2 ways
+representing a 4-node: 1 ways
